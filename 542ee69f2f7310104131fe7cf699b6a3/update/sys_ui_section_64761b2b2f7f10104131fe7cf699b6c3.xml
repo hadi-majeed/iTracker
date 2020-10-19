@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Notes" section_id="64761b2b2f7f10104131fe7cf699b6c3" sys_domain="global" table="x_464213_itracker_itrackerchange" version="3" view="emergencyChange">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 05:40:43</sys_created_on>
+            <sys_id>60761b2b2f7f10104131fe7cf699b6c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_464213_itracker_itrackerchange" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">64761b2b2f7f10104131fe7cf699b6c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 05:40:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 05:40:43</sys_created_on>
+            <sys_id>e0761b2b2f7f10104131fe7cf699b6c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_464213_itracker_itrackerchange" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">64761b2b2f7f10104131fe7cf699b6c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 05:40:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_recommendation</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 05:40:43</sys_created_on>
+            <sys_id>2c761b2b2f7f10104131fe7cf699b6d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_464213_itracker_itrackerchange" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">64761b2b2f7f10104131fe7cf699b6c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 05:40:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 05:40:43</sys_created_on>
+            <sys_id>ac761b2b2f7f10104131fe7cf699b6d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_464213_itracker_itrackerchange" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">64761b2b2f7f10104131fe7cf699b6c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 05:40:43</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_464213_itracker_itrackerchange</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-18 05:40:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64761b2b2f7f10104131fe7cf699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_464213_itracker_itrackerchange</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="iTracker" source="x_464213_itracker">542ee69f2f7310104131fe7cf699b6a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iTracker">542ee69f2f7310104131fe7cf699b6a3</sys_scope>
+            <sys_update_name>sys_ui_section_64761b2b2f7f10104131fe7cf699b6c3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-18 05:40:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Emergency" name="emergencyChange">7964e0530a0a0b8c00ae51f470e50465</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

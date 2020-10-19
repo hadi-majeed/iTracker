@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="iTracker">1eeeea9f2f7310104131fe7cf699b6d2</application>
+        <assessment/>
+        <device_type/>
+        <filter table="incident">sys_updated_onONCurrent hour@javascript:gs.beginningOfCurrentHour()@javascript:gs.endOfCurrentHour()^EQ<item endquery="false" field="sys_updated_on" goto="false" newquery="false" operator="ON" or="false" value="Current hour@javascript:gs.beginningOfCurrentHour()@javascript:gs.endOfCurrentHour()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DETAIL</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 08:09:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d6eeea9f2f7310104131fe7cf699b6d9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Modify Latest Inc in Ct. Hr</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="iTracker" source="x_464213_itracker">542ee69f2f7310104131fe7cf699b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iTracker">542ee69f2f7310104131fe7cf699b6a3</sys_scope>
+        <sys_update_name>sys_app_module_d6eeea9f2f7310104131fe7cf699b6d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-18 06:40:13</sys_updated_on>
+        <timeline_page/>
+        <title>Modify Latest Inc in Ct. Hr</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
